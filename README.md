@@ -91,7 +91,7 @@ We tested three machine learning models. Each model was trained using the same f
 
 ## How to Run
 1. Open the notebook in Google Colab.  
-2. Ensure the dataset (`loan_data.csv`) is uploaded to session storage.  
+2. Ensure the dataset (`loan.csv`) is uploaded to session storage.  
 3. Run all cells to train models and evaluate performance.
 
 ---
